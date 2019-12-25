@@ -39,3 +39,9 @@ textarea {
   background: #00b800;
   padding: 10px;
 }
+textarea:disabled {
+  background: url(https://www.my80stv.com/img/tvstatic.gif);
+}
+button:disabled {
+  cursor: not-allowed;
+}
