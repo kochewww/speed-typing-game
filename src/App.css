@@ -1,11 +1,10 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
 @import url("https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap");
 
 html,
 body {
   background: black;
   color: #00b800;
-  margin: 0;
-  padding: 0;
   padding-top: 10px;
   font-family: "Press Start 2P", cursive;
   text-align: center;
